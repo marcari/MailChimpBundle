@@ -1,5 +1,5 @@
 {
-    "name": "jirafe/MailChimpBundle"
+    "name": "jirafe/MailChimpBundle",
     "autoload": {
         "psr-0": { "Jirafe\\Bundle\\MailChimpBundle": "" }
     },
